@@ -1,0 +1,30 @@
+{
+  "name": "evn-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple Express.js, Vue.js, Node.js boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpudel/evn-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "evn",
+    "express.js",
+    "node.js",
+    "vue.js"
+  ],
+  "author": "tpudel & brandonmanke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpudel/evn-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tpudel/evn-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "vue": "^2.5.2"
+  }
+}
