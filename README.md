@@ -1,2 +1,2 @@
 # evn-boilerplate
-Express.js, Vue.js, Node.js boilerplate based around an MVC structure
+A simple Express.js, Vue.js, Node.js boilerplate.
