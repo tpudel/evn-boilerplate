@@ -2,8 +2,9 @@
   "name": "evn-boilerplate",
   "version": "1.0.0",
   "description": "A simple Express.js, Vue.js, Node.js boilerplate.",
-  "main": "index.js",
+  "main": "app/server.js",
   "scripts": {
+    "start": "node app/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +26,7 @@
   "homepage": "https://github.com/tpudel/evn-boilerplate#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "vue": "^2.5.2"
+    "vue": "^2.5.2",
+    "winston": "^3.0.0-rc1"
   }
 }
