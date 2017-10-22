@@ -1,0 +1,24 @@
+html, body {
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    background: #000;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jumbo {
+    position: relative;
+    color: transparent;
+    font-family: 'Arial';
+    font-size: 40px;
+    font-weight: bold;
+    background-image: url(../img/camo.png);
+    -webkit-background-clip: text;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #00ff21;
+}
